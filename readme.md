@@ -30,7 +30,7 @@ Cada tipo terá as seguintes informações:
 Caso não seja possível finalizar tudo, você pode enviar o que conseguiu finalizar!
 
 ## Opcionais
-1. Video mostrando o uso do sistema no Youtube, no readme do repositório
+1. Video falando sobre o sistema no Youtube, no readme do repositório
 2. Hospedagem na internet
 3. Containerização do sistema
 
